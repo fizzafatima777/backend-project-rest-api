@@ -65,4 +65,4 @@ This project was completed as part of the **Full Stack Development Internship Pr
 
 ## 📬 Contact
 **Fizza Fatima**
-Connect with me on [LinkedIn](https://linkedin.com/fizzafatima777)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/fizza-fatima777/)
